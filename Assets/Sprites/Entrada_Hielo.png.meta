@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 631840f6a382eed40bb86b242a0be150
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1370803002814162793
+    second: Entrada_Hielo_0
+  - first:
+      213: 1443656887440516810
+    second: Entrada_Hielo_1
+  - first:
+      213: -5823932524884581970
+    second: Entrada_Hielo_2
+  - first:
+      213: -1921117657145173652
+    second: Entrada_Hielo_3
+  - first:
+      213: -1469764752813133979
+    second: Entrada_Hielo_4
+  - first:
+      213: -4402060305060874787
+    second: Entrada_Hielo_5
+  - first:
+      213: 5057119795359132644
+    second: Entrada_Hielo_6
+  - first:
+      213: 9129104780919228803
+    second: Entrada_Hielo_7
+  - first:
+      213: 7780158154076433654
+    second: Entrada_Hielo_8
+  - first:
+      213: 1784950737451738712
+    second: Entrada_Hielo_9
+  - first:
+      213: 5789929172354998803
+    second: Entrada_Hielo_10
+  - first:
+      213: -6311808535904711436
+    second: Entrada_Hielo_11
+  - first:
+      213: -6684038644388945125
+    second: Entrada_Hielo_12
+  - first:
+      213: 8819432271202772526
+    second: Entrada_Hielo_13
+  - first:
+      213: 7481700723201077806
+    second: Entrada_Hielo_14
+  - first:
+      213: 7516683486562549227
+    second: Entrada_Hielo_15
+  - first:
+      213: 1044901717541894575
+    second: Entrada_Hielo_16
+  - first:
+      213: 8605472494884519529
+    second: Entrada_Hielo_17
+  - first:
+      213: -175656546120176601
+    second: Entrada_Hielo_18
+  - first:
+      213: -12894148976187131
+    second: Entrada_Hielo_19
+  - first:
+      213: -2380766162737680293
+    second: Entrada_Hielo_20
+  - first:
+      213: 9021564491796558518
+    second: Entrada_Hielo_21
+  - first:
+      213: -7519600622369489859
+    second: Entrada_Hielo_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entrada_Hielo_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 246
+        width: 438
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e6c77112160310800000000000000
+      internalID: 1370803002814162793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Hielo_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 580
+        width: 243
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31224e8e7e5f95050800000000000000
+      internalID: 5789929172354998803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

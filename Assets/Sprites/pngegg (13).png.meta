@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 18f007647c4700c449e6528ccb2d2060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4788722494936073717
+    second: pngegg (13)_0
+  - first:
+      213: -2283868683692668395
+    second: pngegg (13)_1
+  - first:
+      213: -2952511993698296428
+    second: pngegg (13)_2
+  - first:
+      213: 2508672481938088184
+    second: pngegg (13)_3
+  - first:
+      213: 321862591890166717
+    second: pngegg (13)_4
+  - first:
+      213: 6473453095699964798
+    second: pngegg (13)_5
+  - first:
+      213: -911428355225333637
+    second: pngegg (13)_6
+  - first:
+      213: 1023022579123850711
+    second: pngegg (13)_7
+  - first:
+      213: -7870751986972102671
+    second: pngegg (13)_8
+  - first:
+      213: -1704658509623469672
+    second: pngegg (13)_9
+  - first:
+      213: -8108986002896006739
+    second: pngegg (13)_10
+  - first:
+      213: -1896160663401897168
+    second: pngegg (13)_11
+  - first:
+      213: -6095795040048056524
+    second: pngegg (13)_12
+  - first:
+      213: 5403478145767837738
+    second: pngegg (13)_13
+  - first:
+      213: -523408009227569588
+    second: pngegg (13)_14
+  - first:
+      213: 8599046491503443499
+    second: pngegg (13)_15
+  - first:
+      213: -6482375529780087276
+    second: pngegg (13)_16
+  - first:
+      213: -4985024255108020418
+    second: pngegg (13)_17
+  - first:
+      213: -8709842842145485530
+    second: pngegg (13)_18
+  - first:
+      213: 1638505375263101257
+    second: pngegg (13)_19
+  - first:
+      213: -4528308846370911758
+    second: pngegg (13)_20
+  - first:
+      213: -3743662331368206247
+    second: pngegg (13)_21
+  - first:
+      213: -5741780666485916180
+    second: pngegg (13)_22
+  - first:
+      213: 3373561760944825869
+    second: pngegg (13)_23
+  - first:
+      213: 6299285590217287060
+    second: pngegg (13)_24
+  - first:
+      213: -7152210111196003231
+    second: pngegg (13)_25
+  - first:
+      213: 1596600481737220596
+    second: pngegg (13)_26
+  - first:
+      213: -5798517558401527912
+    second: pngegg (13)_27
+  - first:
+      213: 3548661137588764197
+    second: pngegg (13)_28
+  - first:
+      213: 7731067053134763809
+    second: pngegg (13)_29
+  - first:
+      213: -214742805105206956
+    second: pngegg (13)_30
+  - first:
+      213: -8202147445506143448
+    second: pngegg (13)_31
+  - first:
+      213: 2842436754870163111
+    second: pngegg (13)_32
+  - first:
+      213: -5185266472983820510
+    second: pngegg (13)_33
+  - first:
+      213: 6649044294758699474
+    second: pngegg (13)_34
+  - first:
+      213: -874411670509435087
+    second: pngegg (13)_35
+  - first:
+      213: 4987311867861278551
+    second: pngegg (13)_36
+  - first:
+      213: 9001247234058685390
+    second: pngegg (13)_37
+  - first:
+      213: -8057229787538489110
+    second: pngegg (13)_38
+  - first:
+      213: -63771446018052552
+    second: pngegg (13)_39
+  - first:
+      213: -1248483020129694313
+    second: pngegg (13)_40
+  - first:
+      213: 7153158464124073336
+    second: pngegg (13)_41
+  - first:
+      213: -757305756407838293
+    second: pngegg (13)_42
+  - first:
+      213: -8960821726691118715
+    second: pngegg (13)_43
+  - first:
+      213: 4257712866324827982
+    second: pngegg (13)_44
+  - first:
+      213: -5909081182590720198
+    second: pngegg (13)_45
+  - first:
+      213: -6695230148398192772
+    second: pngegg (13)_46
+  - first:
+      213: -2360382588097234545
+    second: pngegg (13)_47
+  - first:
+      213: -8760620051864702529
+    second: pngegg (13)_48
+  - first:
+      213: -1991955218028085341
+    second: pngegg (13)_49
+  - first:
+      213: 6616390145168620185
+    second: pngegg (13)_50
+  - first:
+      213: -6442807921568324016
+    second: pngegg (13)_51
+  - first:
+      213: 8424438859569198129
+    second: pngegg (13)_52
+  - first:
+      213: 7342016477602039645
+    second: pngegg (13)_53
+  - first:
+      213: 4624615765379583398
+    second: pngegg (13)_54
+  - first:
+      213: 2745061500664424876
+    second: pngegg (13)_55
+  - first:
+      213: -5214240860053570082
+    second: pngegg (13)_56
+  - first:
+      213: -3223302106041717789
+    second: pngegg (13)_57
+  - first:
+      213: 6259798512570614031
+    second: pngegg (13)_58
+  - first:
+      213: -7689856737698424288
+    second: pngegg (13)_59
+  - first:
+      213: -6066230795330977448
+    second: pngegg (13)_60
+  - first:
+      213: 6750746917951184303
+    second: pngegg (13)_61
+  - first:
+      213: 7550423394842411883
+    second: pngegg (13)_62
+  - first:
+      213: 85956363428383995
+    second: pngegg (13)_63
+  - first:
+      213: -6424481179110243576
+    second: pngegg (13)_64
+  - first:
+      213: 8646390360293636074
+    second: pngegg (13)_65
+  - first:
+      213: -2272247852392710311
+    second: pngegg (13)_66
+  - first:
+      213: 3423291816081872101
+    second: pngegg (13)_67
+  - first:
+      213: -8859584927765493673
+    second: pngegg (13)_68
+  - first:
+      213: 8339305688850491279
+    second: pngegg (13)_69
+  - first:
+      213: -9131827096091558803
+    second: pngegg (13)_70
+  - first:
+      213: -7685633330419952633
+    second: pngegg (13)_71
+  - first:
+      213: -1028193094982416149
+    second: pngegg (13)_72
+  - first:
+      213: 993970596202247039
+    second: pngegg (13)_73
+  - first:
+      213: -8553579337645622418
+    second: pngegg (13)_74
+  - first:
+      213: 6235391719308734495
+    second: pngegg (13)_75
+  - first:
+      213: -4350379676444274012
+    second: pngegg (13)_76
+  - first:
+      213: -4700171241540044435
+    second: pngegg (13)_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngegg (13)_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 240
+        width: 438
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f54696ccb5f47240800000000000000
+      internalID: 4788722494936073717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngegg (13)_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 575
+        width: 239
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73695fea4356d950800000000000000
+      internalID: 6473453095699964798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 866a6798c9598cf4dbe60c99315cc157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1016031141298645601
+    second: Suelo_0
+  - first:
+      213: -6278261892725335218
+    second: Suelo_1
+  - first:
+      213: 3171043924755923619
+    second: Suelo_2
+  - first:
+      213: 7365055783710399926
+    second: Suelo_3
+  - first:
+      213: -723759068256587791
+    second: Suelo_4
+  - first:
+      213: 1583907295649944290
+    second: Suelo_5
+  - first:
+      213: 1512738798813704644
+    second: Suelo_6
+  - first:
+      213: 2297590241673432527
+    second: Suelo_7
+  - first:
+      213: 7392871932738384887
+    second: Suelo_8
+  - first:
+      213: 1821372135194382163
+    second: Suelo_9
+  - first:
+      213: 1053954026975494532
+    second: Suelo_10
+  - first:
+      213: -3762075570760641890
+    second: Suelo_11
+  - first:
+      213: -2991774543677493572
+    second: Suelo_1
+  - first:
+      213: 1423846682498019082
+    second: Suelo_13
+  - first:
+      213: -8345441854366074218
+    second: Suelo_14
+  - first:
+      213: 5237543700745073165
+    second: Suelo_15
+  - first:
+      213: 3768720025648001037
+    second: Suelo_16
+  - first:
+      213: -9115887656230301813
+    second: Suelo_17
+  - first:
+      213: 2189588744282747452
+    second: Suelo_18
+  - first:
+      213: 2629234308243470415
+    second: Suelo_19
+  - first:
+      213: 4209123766014813250
+    second: Suelo_20
+  - first:
+      213: 4350068563043266770
+    second: Suelo_21
+  - first:
+      213: -2242777097340766918
+    second: Suelo_22
+  - first:
+      213: -3173526192557253662
+    second: Suelo_23
+  - first:
+      213: 3364513688458427531
+    second: Suelo_24
+  - first:
+      213: -4720404724877681527
+    second: Suelo_25
+  - first:
+      213: -7561774472887722004
+    second: Suelo_26
+  - first:
+      213: 8872543458013977200
+    second: Suelo_27
+  - first:
+      213: -5562865831928764970
+    second: Suelo_28
+  - first:
+      213: -3199080978236767863
+    second: Suelo_29
+  - first:
+      213: 915083986759265970
+    second: Suelo_30
+  - first:
+      213: 2609141509274308773
+    second: Suelo_31
+  - first:
+      213: -7660183490905631982
+    second: Suelo_32
+  - first:
+      213: 7109886439224936870
+    second: Suelo_33
+  - first:
+      213: -8554623547695606952
+    second: Suelo_34
+  - first:
+      213: 4222861295978727456
+    second: Suelo_35
+  - first:
+      213: 3162678196231604786
+    second: Suelo_36
+  - first:
+      213: -3023284413531550984
+    second: Suelo_37
+  - first:
+      213: -537094525524459445
+    second: Suelo_38
+  - first:
+      213: -5435453883496799884
+    second: Suelo_39
+  - first:
+      213: -2446013741108172658
+    second: Suelo_40
+  - first:
+      213: -5613657795725228180
+    second: Suelo_41
+  - first:
+      213: 1086576825486154770
+    second: Suelo_42
+  - first:
+      213: -6466887061677605828
+    second: Suelo_43
+  - first:
+      213: 6089313535133679475
+    second: Suelo_44
+  - first:
+      213: -3030923601385689275
+    second: Suelo_45
+  - first:
+      213: -2718877689819790307
+    second: Suelo_46
+  - first:
+      213: 9178787745870872855
+    second: Suelo_47
+  - first:
+      213: -8448019267145579499
+    second: Suelo_48
+  - first:
+      213: 413399657849237434
+    second: Suelo_49
+  - first:
+      213: 5574753248639238502
+    second: Suelo_50
+  - first:
+      213: -2295749034641758643
+    second: Suelo_51
+  - first:
+      213: 4250330046971433256
+    second: Suelo_52
+  - first:
+      213: 711879202001653368
+    second: Suelo_53
+  - first:
+      213: -4200518086608751471
+    second: Suelo_54
+  - first:
+      213: -7053757541269010791
+    second: Suelo_55
+  - first:
+      213: 8092760446935573046
+    second: Suelo_56
+  - first:
+      213: 6686104147834136659
+    second: Suelo_57
+  - first:
+      213: -1293711812384284298
+    second: Suelo_58
+  - first:
+      213: -5124459177355753400
+    second: Suelo_59
+  - first:
+      213: 1417946362917478612
+    second: Suelo_60
+  - first:
+      213: -7149246650279457953
+    second: Suelo_61
+  - first:
+      213: 3398356826335567394
+    second: Suelo_62
+  - first:
+      213: -5837741881812842357
+    second: Suelo_63
+  - first:
+      213: 7591053032423974209
+    second: Suelo_64
+  - first:
+      213: -8357714825462593539
+    second: Suelo_65
+  - first:
+      213: -4121979974550059565
+    second: Suelo_66
+  - first:
+      213: 2477490349047118222
+    second: Suelo_67
+  - first:
+      213: -3211579974191662749
+    second: Suelo_68
+  - first:
+      213: -8180608644577222872
+    second: Suelo_69
+  - first:
+      213: 6733635268936255726
+    second: Suelo_70
+  - first:
+      213: 9141770401937123204
+    second: Suelo_71
+  - first:
+      213: -916449319621755593
+    second: Suelo_72
+  - first:
+      213: 8782208235724910698
+    second: Suelo_73
+  - first:
+      213: -2174108694276795301
+    second: Suelo_74
+  - first:
+      213: 3320290902776933239
+    second: Suelo_75
+  - first:
+      213: -3331920992440366934
+    second: Suelo_76
+  - first:
+      213: -4231568817254299912
+    second: Suelo_77
+  - first:
+      213: -279345022703942822
+    second: Suelo_78
+  - first:
+      213: -8875509365758331465
+    second: Suelo_79
+  - first:
+      213: -5964786229603929301
+    second: Suelo_80
+  - first:
+      213: 4645432826280996572
+    second: Suelo_81
+  - first:
+      213: 2507320217161382308
+    second: Suelo_82
+  - first:
+      213: -6080742717671897743
+    second: Suelo_83
+  - first:
+      213: 1957179496581548274
+    second: Suelo_84
+  - first:
+      213: 3123033556508677296
+    second: Suelo_85
+  - first:
+      213: -4131833269292813438
+    second: Suelo_86
+  - first:
+      213: 9098753647532774706
+    second: Suelo_87
+  - first:
+      213: 5532645077720465796
+    second: Suelo_88
+  - first:
+      213: -7088741771560100700
+    second: Suelo_89
+  - first:
+      213: -1066422523425281689
+    second: Suelo_90
+  - first:
+      213: -12170214695239531
+    second: Suelo_91
+  - first:
+      213: 5305018237825322733
+    second: Suelo_92
+  - first:
+      213: 955283017932485312
+    second: Suelo_93
+  - first:
+      213: -6648081334911216052
+    second: Suelo_94
+  - first:
+      213: -6314230103559608780
+    second: Suelo_95
+  - first:
+      213: 6651917541154370024
+    second: Suelo_96
+  - first:
+      213: -4051739340037761105
+    second: Suelo_97
+  - first:
+      213: -5341519854272784509
+    second: Suelo_98
+  - first:
+      213: 4959532232006635691
+    second: Suelo_99
+  - first:
+      213: -7558491589893520811
+    second: Suelo_100
+  - first:
+      213: -4323459932037363241
+    second: Suelo_101
+  - first:
+      213: 9129926628690888393
+    second: Suelo_102
+  - first:
+      213: 1851500904322782795
+    second: Suelo_103
+  - first:
+      213: -7021450209199126239
+    second: Suelo_104
+  - first:
+      213: -9114437774845808224
+    second: Suelo_105
+  - first:
+      213: 2987628951207214272
+    second: Suelo_106
+  - first:
+      213: 3697114249242306254
+    second: Suelo_107
+  - first:
+      213: 8618606698960583531
+    second: Suelo_108
+  - first:
+      213: -5554831196155318980
+    second: Suelo_109
+  - first:
+      213: -9064065997172795080
+    second: Suelo_110
+  - first:
+      213: 167109786973997079
+    second: Suelo_111
+  - first:
+      213: 1218865412675439265
+    second: Suelo_112
+  - first:
+      213: 5581589566346359657
+    second: Suelo_113
+  - first:
+      213: 2759110922685672548
+    second: Suelo_114
+  - first:
+      213: -6978873749852692621
+    second: Suelo_115
+  - first:
+      213: 6494796792061101831
+    second: Suelo_116
+  - first:
+      213: -6241132955428452472
+    second: Suelo_117
+  - first:
+      213: -4048618124515662805
+    second: Suelo_118
+  - first:
+      213: -4620555675896758029
+    second: Suelo_119
+  - first:
+      213: -8027154301434778456
+    second: Suelo_120
+  - first:
+      213: 925931696994802596
+    second: Suelo_121
+  - first:
+      213: 9203466884525622639
+    second: Suelo_122
+  - first:
+      213: -1079059571183926100
+    second: Suelo_123
+  - first:
+      213: 7246164782634254099
+    second: Suelo_124
+  - first:
+      213: 903678884311055564
+    second: Suelo_125
+  - first:
+      213: -4054838253265935987
+    second: Suelo_126
+  - first:
+      213: 635168140204192261
+    second: Suelo_127
+  - first:
+      213: -1707763605044508989
+    second: Suelo_128
+  - first:
+      213: -2530892010121482827
+    second: Suelo_129
+  - first:
+      213: -2183182946979577675
+    second: Suelo_130
+  - first:
+      213: -9134599793881081939
+    second: Suelo_131
+  - first:
+      213: 5338914816599369277
+    second: Suelo_132
+  - first:
+      213: -7838086087515930657
+    second: Suelo_133
+  - first:
+      213: 4325000525434229634
+    second: Suelo_134
+  - first:
+      213: -7839894770785149071
+    second: Suelo_135
+  - first:
+      213: -3779939331159710852
+    second: Suelo_136
+  - first:
+      213: -6869430592154107718
+    second: Suelo_137
+  - first:
+      213: -409087449161930835
+    second: Suelo_138
+  - first:
+      213: 982982765248077107
+    second: Suelo_139
+  - first:
+      213: 2124512265747082551
+    second: Suelo_140
+  - first:
+      213: 7203858726902984760
+    second: Suelo_141
+  - first:
+      213: -5764893889340964399
+    second: Suelo_142
+  - first:
+      213: -1184650213977201803
+    second: Suelo_143
+  - first:
+      213: 3333685533842154259
+    second: Suelo_144
+  - first:
+      213: -1441020327457085662
+    second: Suelo_145
+  - first:
+      213: -731142879844885043
+    second: Suelo_146
+  - first:
+      213: 1549177314203986600
+    second: Suelo_147
+  - first:
+      213: -2258374249614114985
+    second: Suelo_148
+  - first:
+      213: 3983922418670920728
+    second: Suelo_149
+  - first:
+      213: -6056531840047686114
+    second: Suelo_150
+  - first:
+      213: 4490621046107321906
+    second: Suelo_151
+  - first:
+      213: -6553307570771308419
+    second: Suelo_152
+  - first:
+      213: 7673600195859589267
+    second: Suelo_153
+  - first:
+      213: 1261167593020078572
+    second: Suelo_154
+  - first:
+      213: -274499314489796445
+    second: Suelo_155
+  - first:
+      213: 2270806011693719585
+    second: Suelo_156
+  - first:
+      213: -1511411053989410506
+    second: Suelo_157
+  - first:
+      213: 7974539647532762146
+    second: Suelo_158
+  - first:
+      213: 5338831934316774938
+    second: Suelo_159
+  - first:
+      213: 5451985593911260369
+    second: Suelo_160
+  - first:
+      213: 8413050995791016770
+    second: Suelo_161
+  - first:
+      213: 8153285563651135238
+    second: Suelo_162
+  - first:
+      213: -4055704701464942238
+    second: Suelo_163
+  - first:
+      213: 2888030319391246719
+    second: Suelo_164
+  - first:
+      213: -2988777214566916997
+    second: Suelo_165
+  - first:
+      213: -5571063855753078651
+    second: Suelo_166
+  - first:
+      213: 8701726854605706183
+    second: Suelo_167
+  - first:
+      213: -6428637683202042675
+    second: Suelo_168
+  - first:
+      213: 3309421512542610035
+    second: Suelo_169
+  - first:
+      213: 4363104886364758689
+    second: Suelo_170
+  - first:
+      213: -434712151907118581
+    second: Suelo_171
+  - first:
+      213: -3496482025160018955
+    second: Suelo_172
+  - first:
+      213: 7675337836056429058
+    second: Suelo_173
+  - first:
+      213: -2015665874141379725
+    second: Suelo_174
+  - first:
+      213: -9115947889904766924
+    second: Suelo_175
+  - first:
+      213: -1903365382631974401
+    second: Suelo_176
+  - first:
+      213: -5381448285365735700
+    second: Suelo_177
+  - first:
+      213: -2103884437975466140
+    second: Suelo_178
+  - first:
+      213: -2769945068945074193
+    second: Suelo_179
+  - first:
+      213: -2144311001751587289
+    second: Suelo_180
+  - first:
+      213: -120963521737968305
+    second: Suelo_181
+  - first:
+      213: -548541631608090060
+    second: Suelo_182
+  - first:
+      213: -2724308432227034028
+    second: Suelo_183
+  - first:
+      213: 3320250297105582635
+    second: Suelo_184
+  - first:
+      213: -6894068642694141652
+    second: Suelo_185
+  - first:
+      213: 3915042208439930224
+    second: Suelo_186
+  - first:
+      213: 6730352292115334818
+    second: Suelo_187
+  - first:
+      213: -5077294461087518261
+    second: Suelo_188
+  - first:
+      213: -3202791723761413228
+    second: Suelo_189
+  - first:
+      213: 4426565658615480814
+    second: Suelo_190
+  - first:
+      213: 3579697778261164066
+    second: Suelo_191
+  - first:
+      213: -5157577115845020636
+    second: Suelo_192
+  - first:
+      213: 5731958757737215562
+    second: Suelo_193
+  - first:
+      213: 6224920542270887121
+    second: Suelo_194
+  - first:
+      213: 4805107579166698706
+    second: Suelo_195
+  - first:
+      213: -1920709569728957296
+    second: Suelo_196
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Suelo_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeeb0457e41b76d0800000000000000
+      internalID: -2991774543677493572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa9ec830582c310800000000000000
+      internalID: 1423846682498019082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a35d879d80f2c80800000000000000
+      internalID: -8345441854366074218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853596c253fd74980800000000000000
+      internalID: -8554623547695606952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ce8a99fd9a9a30800000000000000
+      internalID: 4222861295978727456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0249101714eb20800000000000000
+      internalID: 3162678196231604786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d6e398a43cfa30800000000000000
+      internalID: 4250330046971433256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e0c4ecc5a11e900800000000000000
+      internalID: 711879202001653368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f4173e03c4b5c0800000000000000
+      internalID: -4200518086608751471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b4e93cdba0e970800000000000000
+      internalID: 8782208235724910698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b541b8659a304d1e0800000000000000
+      internalID: -2174108694276795301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77beaf20cfa041e20800000000000000
+      internalID: 3320290902776933239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59000441143c4dff0800000000000000
+      internalID: -12170214695239531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee0c88eaf53f9940800000000000000
+      internalID: 5305018237825322733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c234dfe7d8d14d00800000000000000
+      internalID: 955283017932485312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f918532ac57d40800000000000000
+      internalID: 5581589566346359657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_114
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c649a04c45a4620800000000000000
+      internalID: 2759110922685672548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_115
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f5bb7dc4f062f90800000000000000
+      internalID: -6978873749852692621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5023489ee0290d800800000000000000
+      internalID: 635168140204192261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64bf0ac0ecc48e0800000000000000
+      internalID: -1707763605044508989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224857afe814bae60800000000000000
+      internalID: 7974539647532762146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_159
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a168670ab57571a40800000000000000
+      internalID: 5338831934316774938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
